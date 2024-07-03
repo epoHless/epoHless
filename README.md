@@ -1,4 +1,4 @@
-**Game Developer** @ *Dinobros*
+**Game Developer** @ *Dinobros* <br>
 **Tutor** @ *Event Horizon School*
 <!--
 **epoHless/epoHless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
