@@ -5,13 +5,21 @@
 
 ---
 
-_Currently working on a Pokemon game, check out my post [here!](https://www.linkedin.com/feed/update/urn:li:activity:7197010591654313989/?updateEntityUrn=urn:li:fs_feedUpdate:(V2,urn:li:activity:7197010591654313989))_
+_Currently working on a Pokemon game, check out my post [here!](https://www.linkedin.com/feed/update/urn:li:activity:7197010591654313989/?updateEntityUrn=urn:li:fs_feedUpdate:(V2,urn:li:activity:7197010591654313989))_ 😊
 
 ---
 
-_[**Portfolio**](https://www.epohless.me/) - [**LikedIn**](https://www.linkedin.com/in/kevinsalimbeni/)_
+![Static Badge](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F) 
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F) 
+![Static Badge](https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F)
 
 ---
+
+
+![Static Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C%23-black?style=flat&logoColor=white) <br>
+![Static Badge](https://img.shields.io/badge/UE5-black?style=flat&logo=unrealengine&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=flat&logoColor=white)
 
 
 
