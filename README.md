@@ -9,9 +9,9 @@ _Currently working on a Pokemon game, check out my post [here!](https://www.link
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F) 
+![Static Badge](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fwww.epohless.me%2F)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F) 
-![Static Badge](https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevinsalimbeni%2F)
+![Static Badge](https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white&link=https%3A%2F%2Fepohless.itch.io%2F)
 
 ---
 
