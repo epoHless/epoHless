@@ -1,7 +1,5 @@
-
-
-**Game Developer** @ _Dinobros_ 🦖 <br>
-**Tutor** @ _Event Horizon School_ ☀️
+**Tutor** @ _Event Horizon School_ ☀️ <br>
+**Unity** & **Unreal Engine** Developer 🧑‍💻
 
 ---
 
